@@ -1,2 +1,2 @@
-# Project-20-8-24-2020
-This is my project for Class 20.
+# p5.play-boilerplate
+Boiler plate for p5.play
